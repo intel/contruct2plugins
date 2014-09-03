@@ -30,5 +30,7 @@ Plugin ID: com.google.cordova.admob
 Repo URL: https://github.com/floatinghotpot/cordova-admob-pro
 ```
 
+For more instructions visit the <a href="https://software.intel.com/en-us/html5/articles/ads-for-crosswalk-and-construct-2" target="_blank">Intel Developer Zone</a>
+
 ##Build
 Now you are ready to build your application and test it.
