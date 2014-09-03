@@ -16,7 +16,7 @@ There are four properties you must configure
 
 ```
 Android ID 						Admob ID for banner ad
-Banner Position (Top|Bottom)	Display the batnner at the top or bottom
+Banner Position (Top|Bottom)	Display the banner at the top or bottom
 Android Interstitial			Admob ID for interstitial ad
 Test Mode (False|True)         When true, serve test ads
 ```
