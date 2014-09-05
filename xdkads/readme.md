@@ -1,6 +1,6 @@
 #Construct 2 plugin
 
-This plugin is for Construct 2 to enable Admob* ads in Crosswalk exports.  Developers can add banner ads and interstial ads.
+This plugin is for Construct 2 to enable Admob* ads in apps built for the Intel® XDK.  Developers can add banner ads and interstial ads.
 
 ##Usage
 

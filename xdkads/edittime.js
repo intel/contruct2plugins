@@ -18,10 +18,10 @@
 function GetPluginSettings()
 {
 	return {
-		"name":			"Crosswalk Ads",
-		"id":			"crosswalkads",
+		"name":			"Intel® XDK Ads",
+		"id":			"xdkads",
 		"version":		"1.0",
-		"description":	"AdMob ads for Crosswalk.",
+		"description":	"AdMob ads for Intel® XDK.",
 		"author":		"Intel",
 		"help url":		"https://software.intel.com/en-us/html5/articles/ads-for-crosswalk-and-construct-2",
 		"category":		"Platform specific",
@@ -48,8 +48,8 @@ ACESDone();
 
 // Property grid properties for this plugin
 var property_list = [
-	new cr.Property(ept_text,	"Android ID",				"",		"Android banner ad id"),
-	new cr.Property(ept_text,	"Android Interstitial",				"",		"Android interstitial id"),
+	new cr.Property(ept_text,	"Banner ID",				"",		"Banner ad id"),
+	new cr.Property(ept_text,	"Interstitial",				"",		"Interstitial id"),
 	new cr.Property(ept_combo,	"Banner position",				"Bottom",		"Banner position","Bottom|Top"),
 	new cr.Property(ept_combo,	"Test Mode",				"True",		"Show test ads.","False|True")
 	];
